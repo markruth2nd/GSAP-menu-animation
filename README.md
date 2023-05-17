@@ -25,6 +25,6 @@ GSAP Library used, these were accessed via cdnjs.com:
  
 # Screenshots
 Image prior to animated menu drop
-![Prior ](/images/prior-image.png)
+![Prior ]()
 Image post to animated menu drop
-![Post ](/images/post-image.png)
+![Post ]()
