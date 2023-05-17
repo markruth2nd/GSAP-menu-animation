@@ -4,7 +4,7 @@
 Creating multiple animations using GSAP for an online store
 
 # Depoloyed Link
-
+https://markruth2nd.github.io/GSAP-menu-animation/
 
 
 ## Introduction
