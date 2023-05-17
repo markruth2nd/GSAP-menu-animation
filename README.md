@@ -6,6 +6,8 @@ Creating multiple animations using GSAP for an online store
 # Depoloyed Link
 https://markruth2nd.github.io/GSAP-menu-animation/
 
+INSTRUCTUONS OF USE: when the page load, click 'SHOP' in the top left menu to activate and deactivate the dropdown menu animation.
+
 
 ## Introduction
 
