@@ -1,3 +1,5 @@
+![Mark](https://img.shields.io/badge/Mark-Contributed-blueviolet)
+
 # GSAP-menu-animation
 Creating multiple animations using GSAP for an online store
 
