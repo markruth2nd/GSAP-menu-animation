@@ -11,7 +11,7 @@ INSTRUCTUONS OF USE: when the page load, click 'SHOP' in the top left menu to ac
 
 ## Introduction & Features
 
-The purpose of this project is to create an animated drop down menu from the Navbar when the user selects the 'shop' option while getting to test new libraries, GSAP. I create an animated webpage by creating the dropdwn menu and having images and other menu options appear whilst also shrinking the cover picture.
+The purpose of this project is to create an animated drop down menu from the Navbar when the user selects the 'shop' option while getting to test new libraries, GSAP. I created this webpage by adding the dropdwn when the user selects 'shop' in the Navbar and having images and other menu options appear whilst also shrinking the cover picture all in one animation. and then reversing the animation when the user clicks 'shop' again however, there is a level of control so that the aimation has to complete either way before the user is able to activate the click again.
 
 
 # Sources
