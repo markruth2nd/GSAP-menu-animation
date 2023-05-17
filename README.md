@@ -1,6 +1,16 @@
 # GSAP-menu-animation
 Creating multiple animations using GSAP for an online store
 
+# Depoloyed Link
+
+
+
+## Introduction
+
+
+
+## Features
+
 
 
 # Sources
@@ -13,3 +23,8 @@ GSAP Library used, these were accessed via cdnjs.com:
  - TweenLite.min.js
 
  
+# Screenshots
+Image prior to animated menu drop
+![Prior ](/images/prior-image.png)
+Image post to animated menu drop
+![Post ](/images/post-image.png)
